@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-movie-cave/static/css/main.be2440d2.css",
+    "main.js": "/react-movie-cave/static/js/main.944a053b.js",
+    "static/media/logoWhite.png": "/react-movie-cave/static/media/logoWhite.c6d7ba88c0c9cb00f52e.png",
+    "index.html": "/react-movie-cave/index.html",
+    "main.be2440d2.css.map": "/react-movie-cave/static/css/main.be2440d2.css.map",
+    "main.944a053b.js.map": "/react-movie-cave/static/js/main.944a053b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2440d2.css",
+    "static/js/main.944a053b.js"
+  ]
+}
